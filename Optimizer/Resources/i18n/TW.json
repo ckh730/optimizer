@@ -3,7 +3,7 @@
 	"restartButton": "現在重啟",
 	"restartButton8": "現在重啟",
 	"restartButton10": "現在重啟",
-	"restartAndApply": "重新啟動以應用更改?",
+	"restartAndApply": "重新啟動以套用更改?",
 	"txtVersion": "版本: {VN}",
 	"txtBitness": "您使用的是{BITS}",
 	"linkUpdate": "更新可用",
